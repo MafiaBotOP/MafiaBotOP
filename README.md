@@ -1,6 +1,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/deepaiims/BesttMaffiaopss)
+![GitHub repo size](https://img.shields.io/github/repo-size/deepaiims/BessttMaffiaopss)
 [![HitCount](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP.svg)](http://hits.dwyl.com/MafiaBotOP/MafiaBotOP)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
 
@@ -34,7 +34,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/BesttMaffiaopss"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="320" height="58.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/deepaiims/BessttMaffiaopss"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="320" height="58.45"/></a></p>
 
 
 
